@@ -16,7 +16,6 @@
     "test": "mocha -r ts-node/register tests/**/*.spec.ts --reporter spec"
   },
   "devDependencies": {
-    "lerna": "^3.10.7",
     "rimraf": "^2.6.3",
     "ts-node": "^6.0.3",
     "tsc": "^1.20150623.0",
