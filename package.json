@@ -1,6 +1,6 @@
 {
   "name": "@worldsibu/convector-rest-api-decorators",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Decorators for the Rest API generator for the Convector Framework",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
